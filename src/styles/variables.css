@@ -1,0 +1,7 @@
+:root {
+  --radius: 16px;
+  --transition: 0.2s ease;
+
+  --color-accent: #ff3b3b;
+  --gradient-accent: linear-gradient(135deg, #ff3b3b, #ff6b6b);
+}
